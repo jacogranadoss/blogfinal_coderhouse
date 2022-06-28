@@ -4,7 +4,7 @@ Entrega de proyecto final de blog para terminar el curso de Python en Coderhouse
 ## Autores: Eduardo Granados & Elbio Lezchik
 
 Aplicación web similar a un blog post implementada con Python y Django.
-Elaboré e implementé todo el proyecto con ayuda y guía de la documentación de Django y Python.
+Elaboramos e implementamos todo el proyecto con ayuda y guía de la documentación de Django y Python.
 ## Video
 ```
 Link a video: https://youtu.be/93bOF-vHds4
