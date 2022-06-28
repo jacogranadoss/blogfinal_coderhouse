@@ -1,4 +1,4 @@
-# blogfinal_coderhouse
+# Proyecto final de blog- Python Coderhouse.
 Entrega de proyecto final de blog para terminar el curso de Python en Coderhouse
 # WebBlog
 ## Autores: Eduardo Granados & Elbio Lezchik
